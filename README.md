@@ -26,7 +26,7 @@ This ambulance booking website is based on
 ### Php,MySql for creating the back end *and* Html,Css,Js as the front end part of the service required for university major web project
 
 - Initial update : 31.12.2025
-- GitHub page : 0201.2026
+- GitHub page : 02.01.2026
   - [GitHub Page link](https://meharima.github.io/online_ambulance_booking_service/)
 - Final updates : 05.12.2026
 
@@ -40,6 +40,5 @@ This ambulance booking website is based on
 
 ***
 
-### Connect with creator 
-[Saheli Basu](https://www.linkedin.com/in/saheli-basu/)
+
 
